@@ -4,7 +4,7 @@
 I have a background in pharmacy and I´m currently transitioning into the field of data analytics. My journey into the data world started last year, and I have been dedicated to learning and growing in this field ever since. I am particularly interested in data analytics in the pharmaceutical industry.
 
 ## 🎓 Education
-- **Pharmacy Background:** Experience in regulatory affairs and e-commerce for online pharmacy.
+- **Pharmacy Background:** Experience in regulatory affairs and e-commerce within the online pharmacy sector.
 - **Data Analyst Course:** Currently enrolled in a weekend Data Analyst course by Coders Lab IT Academy (November 2024 - May 2025).
 
 ## 🛠 Skills
